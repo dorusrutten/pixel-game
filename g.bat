@@ -1,0 +1,1 @@
+gcc pixelartgame.cpp -lraylib && a.exe
